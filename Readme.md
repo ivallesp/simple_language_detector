@@ -15,7 +15,7 @@ ExtraTrees has been selected as the supervised learning model to perform the cla
 
 With this setting, the results achieved are the following ones.
 
-`
+```
 =============== Results Training set ===============
 Accuracy: 0.972757162987318
 
@@ -43,7 +43,7 @@ Accuracy: 0.956338028169014
 avg / total       0.95      0.96      0.95       710
 
 ===================================================
-` 
+```
 
 These results can be reproduced following the code in the jupyter notebook located in `notebooks/example.ipynb`. To be able to run it, settings.json needs to be filled with the project paths and Python 3 with all the required libraries (pandas, numpy, scikit-learn,...) must be installed.
 
